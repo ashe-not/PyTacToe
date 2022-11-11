@@ -25,7 +25,7 @@ def go_back():
 title_text = Label(root, text="Coming Soon...", font=("Arial", 40))
 title_text.pack(anchor=CENTER, pady=30)
 
-title_text = Label(root, text="Contribute to the project on GitHub > ", font=("Arial", 20))
+title_text = Label(root, text="Contribute to the project on GitHub > https://github.com/ashe-not/PyTacToe", font=("Arial", 20))
 title_text.pack(anchor=CENTER)
 
 back_btn = Button(root, text="Go Back", font=("Arial", 15), width=10, height=1, background="lightblue", command=go_back)
