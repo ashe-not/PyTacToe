@@ -14,14 +14,14 @@ For now, there is no release, as I still have to compile it. However, if you wan
 # How to contribute
 As this is open source and I do not have all the time to work on a tic tac toe game, you can contribute!
 
-## Coding
+### Coding
 Look in issues or just add /contribute at the end of the repo URL.
 
-## Art
+### Art
 Feel free to make some art for icons, menus, etc. I would be happy to put it in the game.
 
-## Translations
+### Translations
 Please translate it to whatever your language is so that this repository can reach more people (I am currently working on a Brazilian Portuguese [pt-br] translation).
 
-## Feedback
+### Feedback
 Just by giving feedback to the project, you are already contributing tons!
